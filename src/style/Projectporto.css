@@ -1,0 +1,9 @@
+.Cardhover {
+  background-color: #1f2937;
+  color: black;
+}
+
+.Cardhover:hover {
+  background-color: #16a34a;
+  color: white;
+}
